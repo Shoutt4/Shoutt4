@@ -14,7 +14,7 @@ Soy estudiante de Ingeniería de Sistemas, interesado principalmente en el desar
 - 📫 Contáctame en: <a href="jhonvergara437@gmail.com">jhonvergara437@gmail.com</a>
 ## Mis habilidades
 
-<h4> lenguages </h4>
+<h4> Lenguages </h4>
 <span> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">

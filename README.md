@@ -60,5 +60,11 @@ Soy estudiante de Ingeniería de Sistemas, interesado principalmente en el desar
 <a target="_blank" href="jhonvergara437@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
-------
+
+<div align="">
+<h2 align="">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Shoutt4show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Shoutt4)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Shoutt4&theme=material-palenight)](https://github.com/Shoutt4)
+</div>
 

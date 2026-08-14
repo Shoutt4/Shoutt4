@@ -10,7 +10,6 @@ Soy estudiante de Ingeniería de Sistemas, interesado principalmente en el desar
   - Spring Boot,
   - Typescript
 - 👯 Me interesa participar en proyectos de desarrollo de software y seguir creciendo profesionalmente como Desarrollador Backend.
-- <br>
 - Fuera del ámbito tecnológico, 📖 me encanta jugar video juegos ver series ,  🎵 escuchar música y 🌴 explorar la naturaleza al aire libre.
 - 📫 Contáctame en: <a href="jhonvergara437@gmail.com">jhonvergara437@gmail.com</a>
 ## Mis habilidades
